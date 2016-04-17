@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hallo Welt...!</string>
+    <string name="titulo_app">Willkommen</string>
+    <string name="texto_app">Wo ein Wille ist, gibt es eine Möglichkeit</string>
+    <string name="aboton_ini">Betreten</string>
+</resources>

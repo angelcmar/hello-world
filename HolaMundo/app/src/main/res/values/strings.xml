@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hola Mundo...!</string>
+    <string name="titulo_app">Bienvenido</string>
+    <string name="texto_app">Donde hay una voluntad hay un camino</string>
+    <string name="aboton_ini">Entrar</string>
+</resources>
